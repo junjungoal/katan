@@ -17,7 +17,7 @@ Tkm.Sound.ROBBER = 9;
 
 Tkm.view = null;
 // Tkm.wsurl = 'wss://sheltered-garden-38284.herokuapp.com/';
-Tkm.wsurl = 'wss://desolate-gorge-32955.herokuapp.com';
+Tkm.wsurl = 'wss://desolate-gorge-32955.herokuapp.com/';
 Tkm.ws = null;
 Tkm.roomIndex = null;
 Tkm.userList = [];
