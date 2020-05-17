@@ -16,7 +16,7 @@ Tkm.Sound.PASS = 8;
 Tkm.Sound.ROBBER = 9;
 
 Tkm.view = null;
-Tkm.wsurl = 'wss://pure-dusk-5665.herokuapp.com';
+Tkm.wsurl = 'wss://sheltered-garden-38284.herokuapp.com/';
 // Tkm.wsurl = 'wss://katan.junjungoal.tech';
 Tkm.ws = null;
 Tkm.roomIndex = null;
