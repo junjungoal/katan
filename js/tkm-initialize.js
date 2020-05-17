@@ -17,7 +17,8 @@ Tkm.Sound.ROBBER = 9;
 
 Tkm.view = null;
 // Tkm.wsurl = 'wss://sheltered-garden-38284.herokuapp.com/';
-Tkm.wsurl = 'wss://katan.junjungoal.tech/';
+// Tkm.wsurl = 'wss://katan.junjungoal.tech/';
+Tkm.wsurl = 'wss://evening-basin-68907.herokuapp.com/';
 Tkm.ws = null;
 Tkm.roomIndex = null;
 Tkm.userList = [];
