@@ -16,7 +16,7 @@ Tkm.Sound.PASS = 8;
 Tkm.Sound.ROBBER = 9;
 
 Tkm.view = null;
-Tkm.wsurl = 'wss://sheltered-garden-38284.herokuapp.com/';
+Tkm.wsurl = 'wss://floating-hollows-84474.herokuapp.com';
 // Tkm.wsurl = 'wss://silly-wescoff-08aed1.netlify.app';
 Tkm.ws = null;
 Tkm.roomIndex = null;
